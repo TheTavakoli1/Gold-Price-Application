@@ -1,4 +1,4 @@
-The Gold Price Application is a Python-based program designed to display and manage gold price information in a simple and accessible way. Whether you want to track prices for personal use or build a foundation for a financial tool, this app provides a clean interface for viewing and updating gold price data.
+**The Gold Price Application** is a Python-based program designed to display and manage gold price information in a simple and accessible way. Whether you want to track prices for personal use or build a foundation for a financial tool, this app provides a clean interface for viewing and updating gold price data.
 
 Features:
 
